@@ -1,9 +1,8 @@
 Resecurity CTF - HackSmartCity Challenge
 
 **Category**: SmartCity CTF  
-**Hosted By**: [Resecurity Pakistan]  
-**Platform**: [HackSmartCity.com]  
-**My Role**: Cybersecurity Intern @ Resecurity | Offensive Security Trainee  
+**Hosted By**: Resecurity Pakistan
+**Platform**: HackSmartCity.com
 **Date**: July 2025  
 
 ---
