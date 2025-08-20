@@ -1,6 +1,6 @@
-# 🛡️ Resecurity CTF - HackSmartCity Challenge
+Resecurity CTF - HackSmartCity Challenge
 
-**Category**: Realistic CTF  
+**Category**: SmartCity CTF  
 **Hosted By**: [Resecurity Pakistan]  
 **Platform**: [HackSmartCity.com]  
 **My Role**: Cybersecurity Intern @ Resecurity | Offensive Security Trainee  
@@ -8,8 +8,8 @@
 
 ---
 
-## 🚩 Objective
-
+Objective:
+CTFs aren’t just games—they’re simulations of real breaches. And I don’t just play to win, I play to learn how to **defend** and **exploit** better.
 The CTF simulated a **real-world smart city infrastructure**, built to test our skills in:
 
 - Web Application Exploitation  
@@ -22,9 +22,7 @@ The challenge focused on targeting the **e-Government Portal** where attackers m
 
 ---
 
-## ⚔️ My Approach
-
-I approached this like a red teamer on an internal engagement:
+ My Approach:
 
 1. **Reconnaissance**  
    - Inspected all subdomains and routes.
@@ -43,7 +41,7 @@ I approached this like a red teamer on an internal engagement:
 
 ---
 
-## 🧠 Key Skills Demonstrated
+Key Skills Demonstrated
 
 - Manual Vulnerability Discovery  
 - Bypassing Strongly-Sanitized Input Filters  
@@ -53,7 +51,7 @@ I approached this like a red teamer on an internal engagement:
 
 ---
 
-## 🗃️ Tools Used
+Tools Used
 
 - **Burp Suite** (Proxy, Repeater, Intruder)  
 - **Firefox Developer Tools**  
@@ -64,33 +62,8 @@ I approached this like a red teamer on an internal engagement:
 
 ---
 
-## 📌 Why This Matters
+Why This Matters
 
 This wasn't a "guess the flag" kind of game.  
-This CTF simulated how real attackers pivot through misconfigurations and logic flaws.
-
-Participating in this exercise **under Resecurity's wing** helped me understand what elite SOC teams and red teams look for when analyzing public-facing infrastructure.
-
----
-
-## 📂 Repo Purpose
-
-This GitHub repo will document:
-
-- My war logs  
-- PoCs and methodology  
-- Payloads I crafted  
-- What worked, what didn’t  
-- What I’d do better next time
-
-Stay tuned—more CTFs and writeups are coming.  
-I’m just getting started.
-
----
-
-## ✊ Final Thoughts
-
-> “CTFs aren’t just games—they’re simulations of real breaches. And I don’t just play to win, I play to learn how to **defend** and **exploit** better.”
-
-This report is part of my **ZeroTrustedd Portfolio**—a growing archive of real-world cybersecurity war stories.
+This CTF simulated how real attackers pivot through misconfigurations and logic flaws, based on futuristic smartcity culture.
 
